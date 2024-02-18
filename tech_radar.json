@@ -1,86 +1,86 @@
 [
+    {
+    "name": "Kanban",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Методдология по которой мы работаем"
+  },
+  {
+    "name": "Java",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Наш основный язык програмирования на бек"
+  },
   {
     "name": "Spring Boot",
     "ring": "adopt",
-    "quadrant": "frameworks",
+    "quadrant": "languages & frameworks",
     "isNew": "FALSE",
-    "description": "Spring Boot is a popular Java-based framework for building microservices and web applications."
+    "description": "Spring Boot - популярный фреймворк на Java для создания микросервисов и веб-приложений."
   },
   {
     "name": "Hibernate",
     "ring": "adopt",
-    "quadrant": "libraries",
+    "quadrant": "tools",
     "isNew": "FALSE",
-    "description": "Hibernate is an object-relational mapping (ORM) library for Java that provides a framework for mapping an object-oriented domain model to a relational database."
+    "description": "Hibernate - библиотека объектно-реляционного отображения (ORM) для Java, предоставляющая среду для сопоставления объектно-ориентированной модели домена с реляционной базой данных."
   },
   {
     "name": "Maven",
     "ring": "adopt",
-    "quadrant": "tools",
+    "quadrant": "Tools",
     "isNew": "FALSE",
-    "description": "Maven is a build automation tool used primarily for Java projects. It helps manage dependencies, build processes, and project documentation."
+    "description": "Maven - инструмент автоматизации сборки, применяемый в основном для проектов на Java. Он помогает управлять зависимостями, процессами сборки и документацией проекта."
   },
   {
     "name": "JUnit",
-    "ring": "adopt",
-    "quadrant": "testing",
+    "ring": "trial",
+    "quadrant": "languages & frameworks",
     "isNew": "FALSE",
-    "description": "JUnit is a popular unit testing framework for Java. It provides annotations and assertions to write and run tests."
+    "description": "JUnit - популярный фреймворк для модульного тестирования на Java. Предоставляет аннотации и утверждения для написания и запуска тестов."
   },
   {
     "name": "Apache Kafka",
     "ring": "trial",
     "quadrant": "tools",
     "isNew": "TRUE",
-    "description": "Apache Kafka is a distributed streaming platform that is commonly used for building real-time data pipelines and streaming applications."
-  },
-  {
-    "name": "Guava",
-    "ring": "assess",
-    "quadrant": "libraries",
-    "isNew": "TRUE",
-    "description": "Guava is a set of core libraries developed by Google for Java programming. It includes collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and more."
+    "description": "Apache Kafka - распределенная платформа потоковой обработки, часто используемая для создания пайплайнов реального времени и потоковых приложений."
   },
   {
     "name": "Lombok",
-    "ring": "trial",
+    "ring": "Adopt",
     "quadrant": "tools",
     "isNew": "TRUE",
-    "description": "Lombok is a Java library that helps reduce boilerplate code by automatically generating getters, setters, constructors, and other repetitive code."
+    "description": "Lombok - библиотека Java, которая помогает уменьшить повторяющийся код, автоматически генерируя геттеры, сеттеры, конструкторы и другие части кода."
   },
   {
     "name": "Log4j2",
-    "ring": "hold",
+    "ring": "Adopt",
     "quadrant": "tools",
     "isNew": "FALSE",
-    "description": "Log4j2 is a logging framework for Java applications that provides logging capabilities with various configuration options and performance improvements over its predecessor, Log4j."
-  },
-  {
-    "name": "JPA (Java Persistence API)",
-    "ring": "adopt",
-    "quadrant": "libraries",
-    "isNew": "FALSE",
-    "description": "JPA is a Java specification for accessing, persisting, and managing data between Java objects/entities and a relational database. It provides a standard way to map Java objects to database tables and vice versa."
+    "description": "Log4j2 - фреймворк логирования для приложений на Java, предоставляющий возможности логирования с различными вариантами конфигурации и улучшениями производительности по сравнению с предшественником, Log4j."
   },
   {
     "name": "Swagger",
     "ring": "trial",
     "quadrant": "tools",
     "isNew": "FALSE",
-    "description": "Swagger is an open-source tool that helps design, build, document, and consume RESTful web services. It provides a user-friendly interface for defining API specifications in the OpenAPI Specification format."
+    "description": "Swagger - инструмент с открытым исходным кодом, который помогает проектировать, создавать, документировать и использовать RESTful веб-сервисы. Предоставляет удобный интерфейс для определения спецификаций API в формате OpenAPI Specification."
   },
   {
-    "name": "Gson",
-    "ring": "assess",
-    "quadrant": "libraries",
-    "isNew": "FALSE",
-    "description": "Gson is a Java library from Google that can be used to convert Java Objects into their JSON representation and vice versa. It can handle complex Java objects with nested objects and collections."
-  },
-  {
-    "name": "Tomcat",
+    "name": "Bitbucket",
     "ring": "adopt",
-    "quadrant": "tools",
+    "quadrant": "Platforms",
     "isNew": "FALSE",
-    "description": "Apache Tomcat is an open-source web server and servlet container that is widely used to deploy Java web applications. It provides a robust environment for running Java web applications."
+    "description": "Бит бакет используется для хранения репозиториев"
+  },
+      {
+    "name": "Confluence",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Используем для документации, статей, руководств"
   }
 ]
