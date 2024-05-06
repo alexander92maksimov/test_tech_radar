@@ -89,5 +89,20 @@
     "quadrant": "Tools",
     "isNew": "FALSE",
     "description": "MapStruct - это библиотека используемая для генерации кода преобразования между объектами Java."
-  }
+  },
+    {
+    "name": "REST",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "REST (Representational State Transfer) - это архитектурный стиль для проектирования сетевых приложений. Он определяет взаимодействие между компонентами приложения посредством ресурсов, представленных унифицированным способом."
+},
+  {
+    "name": "Spring Security",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Для управления доступом и аутентификации пользователей в приложении."
+  },
+    
 ]
