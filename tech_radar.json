@@ -38,14 +38,14 @@
     "name": "JUnit",
     "ring": "trial",
     "quadrant": "languages & frameworks",
-    "isNew": "TRUE",
+    "isNew": "FALSE",
     "description": "JUnit - популярный фреймворк для модульного тестирования на Java. Предоставляет аннотации и утверждения для написания и запуска тестов."
   },
   {
     "name": "Apache Kafka",
-    "ring": "trial",
+    "ring": "assess",
     "quadrant": "tools",
-    "isNew": "TRUE",
+    "isNew": "FALSE",
     "description": "Apache Kafka - распределенная платформа потоковой обработки, часто используемая для создания пайплайнов реального времени и потоковых приложений."
   },
   {
@@ -64,7 +64,7 @@
   },
   {
     "name": "Swagger",
-    "ring": "trial",
+    "ring": "Adopt",
     "quadrant": "tools",
     "isNew": "FALSE",
     "description": "Swagger - инструмент с открытым исходным кодом, который помогает проектировать, создавать, документировать и использовать RESTful веб-сервисы. Предоставляет удобный интерфейс для определения спецификаций API в формате OpenAPI Specification."
