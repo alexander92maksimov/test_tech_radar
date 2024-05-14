@@ -1,8 +1,8 @@
 [
-  {
+   {
     "name": "Kanban",
     "ring": "adopt",
-    "quadrant": "Platforms",
+    "quadrant": "platforms",
     "isNew": "FALSE",
     "description": "Канбан ― это система постановки задач и организации рабочих процессов для эффективного достижения поставленных целей. Данная методология предполагает прозрачность продвижения работы и является одним из подходов Agile."
   },
@@ -121,56 +121,56 @@
   {
     "name": "Логирование",
     "ring": "hold",
-    "quadrant": "Techniques",
+    "quadrant": "techniques",
     "isNew": "FALSE",
     "description": "Рассмотреть новую технику логирования (Усовершенствовать существующую)"
   },
   {
     "name": "Валидация",
     "ring": "hold",
-    "quadrant": "Techniques",
+    "quadrant": "techniques",
     "isNew": "FALSE",
     "description": "Изучить и выбрать подходящий способ валидации"
   },
   {
     "name": "Кеширование",
     "ring": "hold",
-    "quadrant": "Techniques",
+    "quadrant": "techniques",
     "isNew": "FALSE",
     "description": "Понять в каких сервисах нам необходимо кеширование"
   },
   {
     "name": "Стилистика кода",
     "ring": "hold",
-    "quadrant": "Techniques",
+    "quadrant": "techniques",
     "isNew": "FALSE",
     "description": "Составить едениную стилистику кода для всех микросервисов"
   },
   {
     "name": "Асинхроность",
     "ring": "hold",
-    "quadrant": "Techniques",
+    "quadrant": "techniques",
     "isNew": "FALSE",
     "description": "Рассмотреть необходимость приминения асинхронности в наших сервисах"
   },
   {
     "name": "WebSockets, gRPC...",
     "ring": "hold",
-    "quadrant": "Techniques",
+    "quadrant": "techniques",
     "isNew": "FALSE",
     "description": "Рассмотреть другие способы общения микросервисов"
   },
   {
     "name": "JOOQ...",
     "ring": "hold",
-    "quadrant": "Techniques",
+    "quadrant": "techniques",
     "isNew": "FALSE",
     "description": "Рассмотреть другие фреймворки для наших микросервисов, плюсы минусы"
   },
   {
     "name": "Gigacode...",
     "ring": "hold",
-    "quadrant": "Techniques",
+    "quadrant": "techniques",
     "isNew": "FALSE",
     "description": "Внедрить в работу использование gigacode или аналогичные инструменты"
   }
