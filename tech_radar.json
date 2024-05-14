@@ -1,5 +1,5 @@
 [
-    {
+  {
     "name": "Kanban",
     "ring": "adopt",
     "quadrant": "Platforms",
@@ -7,18 +7,32 @@
     "description": "Канбан ― это система постановки задач и организации рабочих процессов для эффективного достижения поставленных целей. Данная методология предполагает прозрачность продвижения работы и является одним из подходов Agile."
   },
   {
-    "name": "Java",
+    "name": "Java 11",
     "ring": "adopt",
     "quadrant": "languages & frameworks",
     "isNew": "FALSE",
-    "description": "Java – широко используемый язык программирования для написания интернет-приложений. Язык Java широко использовался на протяжении более двух десятилетий. Миллионы приложений Java используются и сегодня. Java – это многоплатформенный, объектно-ориентированный и сетецентрический язык, который сам по себе может использоваться как платформа. Это быстрый, безопасный и надежный язык программирования для всего: от мобильных приложений и корпоративного ПО до приложений для работы с большими данными и серверных технологий."
+    "description": "Java 11"
   },
   {
-    "name": "Spring Boot",
+    "name": "Java 17",
+    "ring": "hold",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Рассмотреть плюсы перехода на 17 версию"
+  },
+  {
+    "name": "Spring Boot 2.4.4",
     "ring": "adopt",
     "quadrant": "languages & frameworks",
     "isNew": "FALSE",
-    "description": "Spring Boot - популярный фреймворк на Java для создания микросервисов и веб-приложений."
+    "description": "Spring Boot 2.4.4"
+  },
+  {
+    "name": "Spring Boot 3+",
+    "ring": "hold",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Spring Boot 3+ версиий, рассмотреть возможность перехода (плюсы, минусы)"
   },
   {
     "name": "Hibernate",
@@ -103,5 +117,61 @@
     "quadrant": "Tools",
     "isNew": "FALSE",
     "description": "Для управления доступом и аутентификации пользователей в приложении."
-  }
+  },
+  {
+    "name": "Логирование",
+    "ring": "hold",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Рассмотреть новую технику логирования (Усовершенствовать существующую)"
+  },
+  {
+    "name": "Валидация",
+    "ring": "hold",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Изучить и выбрать подходящий способ валидации"
+  },
+  {
+    "name": "Кеширование",
+    "ring": "hold",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Понять в каких сервисах нам необходимо кеширование"
+  },
+  {
+    "name": "Стилистика кода",
+    "ring": "hold",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Составить едениную стилистику кода для всех микросервисов"
+  },
+  {
+    "name": "Асинхроность",
+    "ring": "hold",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Рассмотреть необходимость приминения асинхронности в наших сервисах"
+  },
+  {
+    "name": "WebSockets, gRPC...",
+    "ring": "hold",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Рассмотреть другие способы общения микросервисов"
+  },
+  {
+    "name": "JOOQ...",
+    "ring": "hold",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Рассмотреть другие фреймворки для наших микросервисов, плюсы минусы"
+  },
+  {
+    "name": "Gigacode...",
+    "ring": "hold",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Внедрить в работу использование gigacode или аналогичные инструменты"
+  },
 ]
